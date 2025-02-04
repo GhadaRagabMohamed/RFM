@@ -63,7 +63,7 @@ How to Run the Project
 
 1. Clone the repository:
 
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/GhadaRagabMohamed/RFM
 
 
 2. Install the required Python libraries:
